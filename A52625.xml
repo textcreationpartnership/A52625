@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of affairs lately received from His Majesties island of Jamaica viz. I. His Excellency the Governour Sir Thomas Linch's speech to the assembly met Sept. 21. 1682, II. Samuel Bernard Esq; speaker of the said assembly, his speech to the Governour, III. An humble address from His Majesties council, and the gentlemen of the assembly, to His Most Sacred Majesty, IV. The Governour's speech at the proroguing the assembly.</title>
+            <author>Jamaica. Governor (1682-1684? : Lynch)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52625</idno>
+            <idno type="STC">Wing N169</idno>
+            <idno type="STC">ESTC R8489</idno>
+            <idno type="EEBO-CITATION">12196031</idno>
+            <idno type="OCLC">ocm 12196031</idno>
+            <idno type="VID">55987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of affairs lately received from His Majesties island of Jamaica viz. I. His Excellency the Governour Sir Thomas Linch's speech to the assembly met Sept. 21. 1682, II. Samuel Bernard Esq; speaker of the said assembly, his speech to the Governour, III. An humble address from His Majesties council, and the gentlemen of the assembly, to His Most Sacred Majesty, IV. The Governour's speech at the proroguing the assembly.</title>
+                  <author>Jamaica. Governor (1682-1684? : Lynch)</author>
+                  <author>Lynch, Thomas, Sir, d. 1684?</author>
+                  <author>Jamaica. Assembly.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jamaica --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55987:1" rendition="simple:additions"/>
+            <p>A NARRATIVE OF AFFAIRS Lately received from his MAJESTIES <hi>Iſland of Iamaica: <hi>VIZ.</hi>
+               </hi>
+               <list>
+                  <item>I. His Excellency the Governour Sir <hi>Thomas Linch</hi>'s Speech to the Aſſembly met <hi>Sept.</hi> 21. 1682.</item>
+                  <item>II. <hi>Samuel Bernard</hi> 
+                     <abbr>Eſq</abbr> Speaker of the ſaid Aſſembly, his Speech to the Governour.</item>
+                  <item>III. An humble Addreſs from his Majeſties Council, and the Gentlemen of the Aſſembly, to his moſt Sacred Majeſty.</item>
+                  <item>IV. The Governour's Speech at the Proroguing the Aſ<g ref="char:EOLhyphen"/>ſembly.</item>
+               </list>
+            </p>
+            <figure>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <p>DIEV ET MON DROIT</p>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor,</hi> near Stationers Hall. 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55987:2"/>
+            <pb n="1" facs="tcp:55987:2"/>
+            <head>A NARRATIVE OF <hi>Affairs from Iamaica.</hi>
+            </head>
+            <div type="speech">
+               <head>His Excellency Sir <hi>Tho. Linch,</hi> Governour in <hi>Jamaica,</hi> his Speech at the convening an Aſſembly (at St. <hi>Jago de la Vega</hi>) in <hi>Jamaica, Sept.</hi> 21. 1682.</head>
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>S I expect you ſhould not do much, ſo I ſuppoſe you may imagine I ſhould ſay but little; the poſture of our Affairs does not require it, nor will the diſorders of my head permit it: How<g ref="char:EOLhyphen"/>ever, I muſt tell you, The Council and I have convened you by the directions of your own Act, that enjoyns your annual Meeting and Sitting ten days; otherwiſe it's probable we had not given you this trouble now.</p>
+               <p>Whatever may be ſaid, I muſt profeſs I am glad of the occaſion of ſeeing ſo many of my good Friends together; but withal, I do aſſure you, it's not that Conſideration made me continue this Aſſembly: for, to be plain, if I believe you knew (in <hi>October</hi> when the Laws past) that my Lord <hi>C.</hi> was removed, I muſt needs conclude, you were neither partial to me as the King's Governour, nor very kind as your Friend; and who reflects on it now, will ſay ſo.</p>
+               <p>But the reaſon that induced the Council and me to continue this, rather than call another Aſſembly, is, we think the Country eaſed by it; and that they cannot viſibly make a worthier Choice: for it's you, Gentlemen, have made theſe Laws, that we hope will be a <hi>Magna Charta</hi> to us and our Chil<g ref="char:EOLhyphen"/>dren, as well as a Boundary to me and all future Governours. And if there be any thing to be added or retrenched to make them paſs at home, we judge it's fit you do it; that you who have had the charge and trouble of raiſing this great Structure, ſhould have the thanks and glory of finiſhing it.</p>
+               <p>I ſuppoſe, Gentlemen, no body will enter into Diſputes about the Legality
+<pb n="2" facs="tcp:55987:3"/>
+of this Aſſembly; for the Lords at home ſay it is lawful: And then you all know you are called by the King's Writ, ſo not diſſolved by change of a Governour, no more than Parliaments in <hi>England</hi> and <hi>Ireland</hi> are by the death or removal of Lieutenants or Chancellors.</p>
+               <p>I need not have ſaid this, Gentlemen: for I know you are too wiſe to enter into Diſputes about Niceties; and do conſider, that as the King and his Miniſters intend we ſhall have all thoſe juſt Liberties and Freedoms that belong to Engliſh-men and good Subjects, ſo our reflecting on things that are not pertinent, or reviving thoſe deteſtable names of Caballers, Prerogative, and Property-men, may give them offence, and that will make us uneaſie; and as it will be troubleſome now, ſo may it be ruinous hereafter: for com<g ref="char:EOLhyphen"/>mon Senſe tells us, <hi>We ſhould not kick againſt the Pricks;</hi> and the wiſe man. <hi>That it's madneſs to contend with thoſe that are too mighty:</hi> And indeed the Conteſt muſt be fatal, where it is ſo unequal as to have Pow<g ref="char:EOLhyphen"/>er and Right too on the ſame ſide.</p>
+               <p>Though I cannot, Gentlemen, ſpeak any thing directly from our Lords a<g ref="char:EOLhyphen"/>bout the Laws, yet I ſhall take the liberty to ſay this from my ſelf, that if it's of the utmoſt import our Laws paſs, it may be fit for you to conſider now whether they will or no; and if you judge they will not, then reſolve of remo<g ref="char:EOLhyphen"/>ving the Obſtructions. This conjuncture is favourable, and may give more encouragement than can be expected next year, when I ſhall be forecloſed all Conceſſions by poſitive Orders and the Laws determination.</p>
+               <p>Pray, Gentlemen, conſider how much better it is to go voluntarily a ſtep or two back, than run the hazard of being driven God knows how far. I ſhall explain my ſelf, if you enter into debate of this matter; if not, it muſt lie at your door: for it's you muſt anſwer to this, and it may be fu<g ref="char:EOLhyphen"/>ture Ages, the loſing another opportunity of eſtabliſhing the Peace and Laws of this great and proſperous Colony.</p>
+               <p>I beg you, Gentlemen, to believe, that herein I ſollicit not my own Concern: for God hath been pleaſed to give me a moderate Eſtate, and the King a competent Salary, that I am ſure to be paid here or in <hi>England;</hi> ſo I neither need nor deſire any thing from you: I onely beg we may do our ſelves the right to pay the Duty, Submiſſion, and Gratitude we all owe the King as our ſoveraign Lord and great Benefactor; and that for our Peace and Intereſt ſake, we let no factious or ſcrupulous Spirits inſinuate any thing that may make us miſtruſt a juſt Prince, and prudent Miniſters: Such is the King, ſuch are thoſe Lords that govern us under him. Do we not know the bitte<g ref="char:EOLhyphen"/>reſt Enemy his Majeſty (or which is worſe, Monarchy it ſelf) has, cannot ſay he ever took the leaſt thing from the meaneſt Subject by violence, or contrary to Law? And if he has ever erred, has it been in any thing but in the ex<g ref="char:EOLhyphen"/>ceſs of his Bounty and Mercies? Can Faction, Malice, or Impudence it ſelf then ſuggeſt, that ſuch a Prince ſhould violate the Laws, to take from a young and needy Colony the Revenue himſelf gives, and commands to be raiſed for the ſupport of their own Government, and that at a time he has ap<g ref="char:EOLhyphen"/>pointed us an Auditor-General, a particular Office to ſee it's not miſap<g ref="char:EOLhyphen"/>plied? Nor is it poſſible it ſhould, ſo long as your Act exiſts; and that e<g ref="char:EOLhyphen"/>very one of you knows, and I poſitively affirm. But pray pardon me; for I am aſſured, Thoughts ſo criminal, and Jealouſies ſo unreaſonable, are far
+<pb n="3" facs="tcp:55987:3"/>
+from every one of us; nor can they lodge in any breaſt but ſuch as have ba<g ref="char:EOLhyphen"/>niſht that Loyalty and Reverence that is due to Majeſty and Truth.</p>
+               <p>I call God to record, I knew of no deſigne to injure or invade your juſt Liberties, nor have I other Inſtructions than to do right, and govern ac<g ref="char:EOLhyphen"/>cording to the Laws of <hi>England</hi> and this Iſland. I appeal to you all, if you do not know I did not ſo, to the beſt of my underſtanding, when I had the honour to command here before. I muſt tell you, it's my opinion, it was that Conſideration and your Satisfaction, made the King and his Miniſters to ſend me again, that all thoſe Paſſions that have ſo long agitated you, might be calmed, and every thing that gave you ombrage, removed.</p>
+               <p>Believe me therefore, Gentlemen, ſhould our Sins, Caprice, or Follies, make us miſs that Port that now frankly offers it ſelf, and launch into the deep of needleſs Jealouſies and Diſputes, it's to be fear'd we may find it a wide Sea of Confuſion, where we ſhall not eſcape Shipwrack without a Miracle; the apprehenſion of which ſo diſcompoſes me, that I cannot ſay more than God have mercy on us, and direct you.</p>
+            </div>
+            <div type="speech">
+               <head>
+                  <hi>Samuel Barnard</hi> 
+                  <abbr>Eſq</abbr> Speaker of the Aſſembly, his Speech to the Governour, <hi>Sept.</hi> 21. 1682.</head>
+               <opener>
+                  <salute>May it pleaſe your Excellency,</salute>
+               </opener>
+               <p>TO confirm their own Judgment, the Aſſembly are pleaſed to continue me their Speaker; and that I take likewiſe to be the reaſon that prevails with you to approve their Choice. I ſhall not preſume, Sir, to be tedious: however, we do in all humility acknowledge the frequent and ample Teſtimonies of his moſt Sacred Majeſties repeated Favours, whoſe goodneſs, like the Sun extends to the utmoſt corners of his Dominions; and eſpecially for this laſt and moſt ſignal one in returning your Excellency to us, thereby demonſtrating your Government to be both to his ſatisfaction, and that of all his ſubjects here; who ſhall always preſerve their Loyalty entire to him, and of conſequence their Obedience to your Excellency his immediate Mini<g ref="char:EOLhyphen"/>ſter: and that however repreſented, we can never believe any diſtinction between the King's intereſt and the Peoples; for indeed whoever preaches up that Deſtructive Poſition, doth from an ill diviſion of an ill choſen Text, deduce worſe Doctrine.</p>
+               <p>The uncertainties and difficulties, under which for ſome years paſt we have laboured, have been very great: I am willing to touch on that no farther than to ſay, being impartially weighed, it can never be reaſonably imagined we had any other deſigne but to continue under our old form of Government, which his Majeſty had been pleaſed to conſtitute at firſt, as near that of his Realm of <hi>England,</hi> as ſo great a Volume could be compriſed in ſo ſmall an Epitome, and to preſerve the quiet fruition of thoſe Eſtates which our own induſtry (bleſt be divine Providence) had acquired, under the ſame me<g ref="char:EOLhyphen"/>thod of making Laws, as is obſerved in our Native Country, from which, as the famous Roman ſaith, there is defended, a greater Inheritance to us, than
+<pb n="4" facs="tcp:55987:4"/>
+from our Parents. A truth I may ſay, without offence, verified in the ma<g ref="char:EOLhyphen"/>jor part of the Inhabitants of this Iſland.</p>
+               <p>The whole matter of this then being ſeriouſly conſidered to be done upon theſe ends onely, if we may not preſume to merit or lay claim to, yet from ſo great a goodneſs, as that of his most Gracious Majeſty, I doubt not but we may certainly hope for pardon.</p>
+               <p>I have now onely to add in behalf of theſe Gentlemen, humbly to crave the preſervation of their uſual Priviledges, freedom of Debate, and acceſs to your Perſon, and in particular your Excellencies pardon of the inadver<g ref="char:EOLhyphen"/>tancies of me their Speaker, beſeeching you to deem them Errours of Judge<g ref="char:EOLhyphen"/>ment, not will.</p>
+            </div>
+            <div type="speech">
+               <head>His Majeſties Council and the Gentlemen of the Aſſembly for his Iſland of <hi>Jamaica,</hi> being met at St. <hi>Jago de la Vega</hi> the <hi>21th</hi> day of <hi>September 1682.</hi> by order of his Excel<g ref="char:EOLhyphen"/>lency the Governour Sir <hi>Tho. Linch,</hi> humbly beſeech the Lord Preſident and Lords of his Majeſties moſt Honourable Privy-Council, for governing his Majeſties Foreign Planta<g ref="char:EOLhyphen"/>tions, to preſent to his moſt Sacred Majeſty this their moſt humble Addreſs.</head>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty,</salute>
+                     </opener>
+                     <p>HAving received more frequent Teſtimonies of your Roy<g ref="char:EOLhyphen"/>al Grace and Bounty, than others of your Subjects, we ought to have been the firſt to have made profeſſion of our Loyalty and Gratitude to your Sacred Majeſty; but the unſettledneſs of our Affairs, and that vaſt diſtance we are at from your Kingdom of <hi>England,</hi> may move your Majeſty (the beſt of Kings) to pardon the omition, and accept a late but hearty and humble tender of our Duty.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Dread Sir,</salute>
+                     </opener>
+                     <p>We do (as we have the greateſt reaſon in the world for it) bleſs God and moſt humbly thank your Majeſty, for your Care in protecting us, for your Grace and Juſtice in aſſimulating our Government to that of our Native Country of <hi>England,</hi> for your Majeſties favour in ordering us ſupplies of Negroes at reaſonable rates, and for thoſe many repeated Acts of Grace, Juſtice, Bounty, and Protection which your Majeſty hath been pleaſed to confer upon us and this your great and flouriſhing Iſland.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>To evidence in ſome meaſure our Thankfulneſs and Duty, we moſt humbly preſent to your Majeſty an Act of Revenue, formed by advice of our preſent Governour, which with our former body of Laws, we hope quadrates with thoſe Orders and Directions, the Lords of your Majeſties
+<pb n="5" facs="tcp:55987:4"/>
+Privy-Council ſent hither: We proſtrate them, and our ſelves at your Majeſties Royal feet, humbly beſeeching your Majeſty will be pleaſed graciouſly to paſs them, conſidering how much the eſtabliſhing of known Laws, will contribute to the ſatisfaction of your Subjects, and proſperity of this your Majeſties Iſland.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Dread Soveraign,</salute>
+                     </opener>
+                     <p>Although we are the remoteſt of all your Subjects from your Royal Throne, yet have we (to our great trouble) underſtood there may have been deſignes to ſubvert and ſhake it; and that ſome would have im<g ref="char:EOLhyphen"/>poſed on your Majeſty, others altered the Succeſſion and ſecluded your Royal Brother, and in order to that or worſe ends would have enter<g ref="char:EOLhyphen"/>ed into Aſſociation: All which we utterly deteſt, and humbly beſeech your Majeſty to believe, that we ſhall always obey your Commands, dutifully revere your Perſon, faithfully ſupport your Majeſties Go<g ref="char:EOLhyphen"/>vernment and lawful Succeſſion, to the utmoſt of our power; the long and happy continuance whereof, both in Church and State, we heartily pray for.</p>
+                     <closer>
+                        <dateline>
+                           <hi>By order of the Council ſigned</hi>
+                           <date>
+                              <hi>this</hi> 6th <hi>day of</hi> Oct. 1682.</date>
+Rowland Powell, <hi>Cl. Council.</hi>
+                        </dateline>
+                        <signed>
+                           <hi>By order of the Aſſembly,</hi> Sam. Barnard, <hi>Speaker.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="speech">
+               <head>The Governour's Speech at proroguing the Aſſembly from <hi>Octob.</hi> the 4th 1682. to <hi>May</hi> the 4th 1683.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>YOu may believe the diſorders of my Head, and misfortunes of my Voy<g ref="char:EOLhyphen"/>age, are ſomething alleviated, by the joy I have to ſee this Seſſion ſo happily and ſuddenly ended; though God has been pleaſed to confer on me many great and ſignal Bleſſings, yet none of them methinks ever reliſht like this, nor is it reaſonable they ſhould: they have been particular, and con<g ref="char:EOLhyphen"/>cerned my ſelf onely. This is publick, and may, I hope, reach <hi>White-hall,</hi> and affect not onely us here, but every individual man in this great Iſland, and thoſe that ſhall ſucceed us in it.</p>
+               <p>We have, Gentlemen, fluctuated many years between Fears and Jealou<g ref="char:EOLhyphen"/>ſies among our ſelves, and of our Governours, which has occaſioned angry diſputes here, that have rather enlarged, than cemented the Breach.</p>
+               <p>Like ill Sculptures, ſome would have made the Head too big, as others the Members, neither of them conſidering that the perfection and beauty of the Figure conſiſts in the ſymetry and due proportion of the parts: for it's in the Body Politick as in the Natural; if the Head attracts too much nou<g ref="char:EOLhyphen"/>riſhment, the Members become debile and weak; if the Body does it, the Head will be rendred incapable of exerciſing the Divine Function lodg'd in it.</p>
+               <p>
+                  <pb n="6" facs="tcp:55987:5" rendition="simple:additions"/>But you, Gentlemen, like good Subjects and wiſe Patriots, have duly weighed this, and conſidered there's a Duty to be paid a Prince, as well as a Care to be taken of our ſelves; and that we cannot expreſs our Duty better than in truſting his Majeſty, we need not fear to do it, ſince he has merited ſo much from us; and that it is certain our Proſperity is his true Intereſt: for Colonies that do not thrive, are like Scabs, they render nothing to, but draw nouriſhment from the Body.</p>
+               <p>We that were of the old Army, thankfully remember the Donative his Majeſty gave us: All of us know, he has conſtantly ſent us Supplies in our need, Ships to defend us in our danger; when we could not, he paid our Mi<g ref="char:EOLhyphen"/>niſters, &amp; gave Salaries to our Governours and others, allowed Money for our Fortifications, and now gives and permits his Rents to be appropriated to the Charge and Support of our Government: this and much more his Ma<g ref="char:EOLhyphen"/>jeſty hath done for us, and to make this Care, this Munificence, like himſelf, perfectly gracious, perfectly obliging. It was done for us here, in thoſe times his Majeſty was under the greateſt Preſſures and Wants at home.</p>
+               <p>You, Gentlemen, have dutifully and gratefully acknowledged this by ſepa<g ref="char:EOLhyphen"/>rating your Laws from his Revenue, and by that frank, hearty, and humble ſubmiſſion you make of all, to his Majeſties Juſtice and Grace. I am ſure <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u'll find the advantage of it, and that there's no other method of tranſ<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing with Princes: for there is no parity betwixt us and them, they can<g ref="char:EOLhyphen"/>no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be bound; they muſt therefore be truſted. And this confidence (were it lawful to make the Compariſon) I durſt ſay muſt neceſſarily have the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me effect on the King, as our Faith has on God, if we believe, he will do us good.</p>
+               <p>There's no other way to retrieve the good opinion of our Lords at home, to be ſetled and united among our ſelves, and to eſtabliſh that Credit abroad that may bring People and Trade to us. If we ſhould continue at variance among our ſelves, or have conteſt with our Prince and Governours, who would love <hi>Jamaica</hi> (though it has ſo many Charms) or ſtay in it though it has ſo many Advantages if one could but breath any where elſe? Does not every one know what influence Agreement and Peace have on mens minds and fortunes? which is the reaſon, Morality, as well as our Reaſon, bids us <hi>purſue Peace with all men.</hi>
+               </p>
+               <p>If Peace, Gentlemen, be of this import, that it's to be purſued as a <hi>ſum<g ref="char:EOLhyphen"/>mum bonum,</hi> what do we all owe to you, that have thus overtaken it, and thus eſtabliſht it among us? Surely ſince Heaven is beſt deſcribed by ſaying it is the <hi>place of Peace and Union,</hi> you that have brought down and eſta<g ref="char:EOLhyphen"/>bliſht, and fixed ſuch a Reſemblance of it here, ought to expect and have all our Praiſes, all our Thanks, and every man of you, is ſure of all the Services I can ever render him.</p>
+               <p>God I hope will give to you, all thoſe Bleſſings in your fortunes, in your minds, and in your perſons, promiſed to Peace-makers; and to us thoſe that are the conſequences of Peace and <g ref="char:V">Ʋ</g>nion it ſelf.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
